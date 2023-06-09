@@ -1,6 +1,6 @@
-##Create and setup your Git and GitHub account
+## Create and setup your Git and GitHub account
 
-- first download & setup vagrant by useing 
+- first download from  vagrantup.com & setup vagrant by useing 
 
 ```bash
   vagrant init ubuntu/focal64
